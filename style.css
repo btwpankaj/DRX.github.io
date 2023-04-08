@@ -71,6 +71,8 @@ h1 {
     margin-bottom: 2rem;
     word-spacing: 1rem;
     line-height: 1.6;
+    position: flex;
+    padding-right: 790px;
 }
 
 h2 {
